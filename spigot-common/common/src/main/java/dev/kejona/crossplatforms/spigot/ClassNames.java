@@ -29,6 +29,7 @@ public final class ClassNames {
         put("1.21.2", "v1_21_R2");
         put("1.21.3", "v1_21_R2");
         put("1.21.4", "v1_21_R3");
+        put("1.21.5", "v1_21_R4");
     }};
 
     static {
