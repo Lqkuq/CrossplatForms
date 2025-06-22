@@ -33,7 +33,7 @@ import java.util.List;
 
 public class CrossplatFormsBungeeCord extends Plugin implements CrossplatFormsBootstrap {
 
-    private static final int BSTATS_ID = 14706;
+    private static final int BSTATS_ID = 26241;
     public static final BungeeComponentSerializer COMPONENT_SERIALIZER = BungeeComponentSerializer.get();
 
     static {

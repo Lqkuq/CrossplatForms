@@ -50,7 +50,7 @@ import java.util.List;
 
 public abstract class SpigotBase extends JavaPlugin implements CrossplatFormsBootstrap {
     
-    private static final int METRICS_ID = 14707;
+    private static final int METRICS_ID = 26240;
 
     public static final LegacyComponentSerializer LEGACY_SERIALIZER = BukkitComponentSerializer.legacy();
     private static SpigotBase INSTANCE;

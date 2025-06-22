@@ -39,7 +39,7 @@ import java.util.List;
 
 public class CrossplatFormsVelocity implements CrossplatFormsBootstrap {
 
-    private static final int BSTATS_ID = 14708;
+    private static final int BSTATS_ID = 26242;
     private static CrossplatFormsVelocity INSTANCE;
 
     static {
