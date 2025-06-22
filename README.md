@@ -3,8 +3,8 @@
 [![Version](https://img.shields.io/badge/version-1.5.1-blue)](https://github.com/Lqkuq/CrossplatForms/releases)
 [![License](https://img.shields.io/badge/License-GPL-orange)](https://github.com/Lqkuq/CrossplatForms/blob/master/LICENSE)
 [![Discord](https://img.shields.io/discord/1244678149204082708?color=7289da&label=discord&logo=discord&logoColor=white)](https://discord.gg/WZvAP78RaH)
-[![bStats](https://img.shields.io/badge/bStats-click%20me-yellow)](https://bstats.org/author/Konicai)
-[![Spigot Page](https://img.shields.io/spiget/downloads/101043?color=yellow&label=Spigot%20Page)](https://www.spigotmc.org/resources/crossplatforms.101043/)  
+[![bStats](https://img.shields.io/badge/bStats-click%20me-yellow)](https://bstats.org/author/Lqkuq)
+[![Original Spigot Page](https://img.shields.io/spiget/downloads/101043?color=yellow&label=Spigot%20Page)](https://www.spigotmc.org/resources/crossplatforms.101043/)  
 
 ## **This is a fork of [kejonaMC/CrossplatForms](https://github.com/kejonaMC/CrossplatForms) and I am not the original author.**
 
