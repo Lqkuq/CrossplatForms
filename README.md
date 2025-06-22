@@ -1,12 +1,14 @@
-<img alt="CrossplatForms" width="500" src="https://github.com/kejonaMC/CrossplatForms/blob/main/images/crossplatForms.svg" /> 
+<img alt="CrossplatForms" width="500" src="https://github.com/Lqkuq/CrossplatForms/blob/main/images/crossplatForms.svg" /> 
 
-[![Build Status](https://ci.kejonamc.dev/job/CrossplatForms/job/main/badge/icon)](https://ci.kejonamc.dev/job/CrossplatForms/job/main/)
-[![Version](https://img.shields.io/badge/version-1.5.0-blue)](https://github.com/kejonaMC/CrossplatForms/releases)
-[![License](https://img.shields.io/badge/License-GPL-orange)](https://github.com/kejonaMC/CrossplatForms/blob/master/LICENSE)
-[![Discord](https://img.shields.io/discord/853331530004299807?color=7289da&label=discord&logo=discord&logoColor=white)](https://discord.gg/M2SvqCu4e9)
+[![Version](https://img.shields.io/badge/version-1.5.1-blue)](https://github.com/Lqkuq/CrossplatForms/releases)
+[![License](https://img.shields.io/badge/License-GPL-orange)](https://github.com/Lqkuq/CrossplatForms/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/1244678149204082708?color=7289da&label=discord&logo=discord&logoColor=white)](https://discord.gg/WZvAP78RaH)
 [![bStats](https://img.shields.io/badge/bStats-click%20me-yellow)](https://bstats.org/author/Konicai)
 [![Spigot Page](https://img.shields.io/spiget/downloads/101043?color=yellow&label=Spigot%20Page)](https://www.spigotmc.org/resources/crossplatforms.101043/)  
 
+## **This is a fork of [kejonaMC/CrossplatForms](https://github.com/kejonaMC/CrossplatForms) and I am not the original author.**
+
+## Description:
 CrossplatForms is a Java Edition plugin aimed at creating Bedrock Edition Forms for [Geyser](https://github.com/GeyserMC/Geyser) players through flexible configurations. Bedrock Forms allow servers to provide players with abritrary choices in a styled menu, which the server then handles in any way desired. This allows you to customize forms specifically for your server, plugins, etc.
 
 Inventory menus for Java Edition players can also be created, on all platforms. Protocolize must be installed on BungeeCord/Velocity for inventory menus to be created on them.
@@ -38,11 +40,9 @@ BungeeCord and Velocity do not support Access Items.
 
 ---
 
-* [`CrossplatForms-Spigot.jar`](https://ci.kejonamc.dev/job/CrossplatForms/job/main/) :&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Spigot 1.8.8 - 1.21.3
-* [`CrossplatForms-BungeeCord.jar`](https://ci.kejonamc.dev/job/CrossplatForms/job/main/) :&ensp;&ensp;&ensp; BungeeCord
-* [`CrossplatForms-Velocity.jar`](https://ci.kejonamc.dev/job/CrossplatForms/job/main/) :&ensp;&ensp;&ensp;&ensp;&ensp; Velocity 3.x
-
-Alternative downloads are available [here](https://github.com/kejonaMC/CrossplatForms/actions/workflows/push-main.yml) and development builds are available [here](https://github.com/kejonaMC/CrossplatForms/actions/workflows/push-dev.yml).
+* [`CrossplatForms-Spigot.jar`](https://github.com/Lqkuq/CrossplatForms/releases) :&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Spigot 1.8.8 - 1.21.5
+* ~~[`CrossplatForms-BungeeCord.jar`](https://github.com/Lqkuq/CrossplatForms/releases)~~ :&ensp;&ensp;&ensp; ~~BungeeCord~~
+* ~~[`CrossplatForms-Velocity.jar`](https://github.com/Lqkuq/CrossplatForms/releases)~~ :&ensp;&ensp;&ensp;&ensp;&ensp; ~~Velocity 3.x~~
 
 ## Requirements:
 * Java 8 or higher
