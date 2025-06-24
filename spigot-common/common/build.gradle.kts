@@ -9,7 +9,7 @@ dependencies {
     api(projects.accessItem)
     api("cloud.commandframework:cloud-paper:1.8.3")
     api("me.lucko:commodore:2.2")
-    api("net.kyori:adventure-platform-bukkit:4.3.0")
+    api("net.kyori:adventure-platform-bukkit:4.4.0")
     api("org.bstats:bstats-bukkit:3.0.2")
 }
 
