@@ -27,7 +27,7 @@ dependencies {
     testImplementation("com.google.code.findbugs:jsr305:3.0.2")
     api("com.google.code.findbugs:jsr305:3.0.2")
 
-    compileOnly("org.geysermc.floodgate:api:2.2.0-SNAPSHOT") { isTransitive = false }
+    compileOnly("org.geysermc.floodgate:api:2.2.4-SNAPSHOT") { isTransitive = false }
     compileOnly("net.luckperms:api:5.4") { isTransitive = false }
 
     api("org.bstats:bstats-base:3.0.2")
