@@ -9,7 +9,7 @@ dependencies {
     compileOnly("net.md-5:bungeecord-proxy:1.21-R0.4-SNAPSHOT") // For getting skins (dependency through jitpack)
     api("cloud.commandframework:cloud-bungee:1.8.3")
     api("net.kyori:adventure-platform-bungeecord:4.4.0")
-    implementation("org.bstats:bstats-bungeecord:3.0.2")
+    implementation("org.bstats:bstats-bungeecord:3.1.0")
     api(projects.proxy)
     api(projects.core)
 }
