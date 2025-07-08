@@ -2,7 +2,7 @@ name: CrossplatForms
 main: dev.kejona.crossplatforms.bungeecord.CrossplatFormsBungeeCord
 version: ${project_version}
 description: ${project_description}
-author: Konicai, Jens
+author: Konicai, Jens, Lqkuq
 softDepends:
   - Geyser-BungeeCord
   - floodgate
