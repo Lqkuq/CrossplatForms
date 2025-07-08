@@ -22,6 +22,7 @@ public class CrossplatFormsSpigot extends SpigotBase {
         registerVersion("1_20_R2");
         registerVersion("1_21_R3");
         registerVersion("1_21_R4");
+        registerVersion("1_21_R5");
     }
 
     @Override
