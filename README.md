@@ -1,6 +1,6 @@
 <img alt="CrossplatForms" width="500" src="https://github.com/Lqkuq/CrossplatForms/blob/main/images/crossplatForms.svg" /> 
 
-[![Version](https://img.shields.io/badge/version-1.5.1-blue)](https://github.com/Lqkuq/CrossplatForms/releases)
+[![Version](https://img.shields.io/badge/version-1.5.2-blue)](https://github.com/Lqkuq/CrossplatForms/releases)
 [![License](https://img.shields.io/badge/License-GPL-orange)](https://github.com/Lqkuq/CrossplatForms/blob/master/LICENSE)
 [![Discord](https://img.shields.io/discord/1244678149204082708?color=7289da&label=discord&logo=discord&logoColor=white)](https://discord.gg/WZvAP78RaH)
 [![bStats](https://img.shields.io/badge/bStats-click%20me-yellow)](https://bstats.org/author/Lqkuq)
